@@ -294,3 +294,4 @@ student_table.bind("<ButtonRelease-1>", get_cursor)
 root.mainloop()
 
 
+
